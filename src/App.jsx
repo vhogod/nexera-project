@@ -261,7 +261,7 @@ Include: what it is, its primary use, and one key safety fact. Be clear and prof
 
           <div className="summary-box">
             <h3>AI Educational Summary</h3>
-            <p>{summary || 'Your AI-generated training summary will appear here after loading a model.'}</p>
+            <p>{summary || 'AI-generated training summary will appear here after loading a model.'}</p>
           </div>
         </div>
       </div>
